@@ -50,6 +50,16 @@ pip install seaborn thop
 # go to code folder
 cd /yolov7
 ```
+Local installation
+<details><summary> <b>Expand</b> </summary>
+
+Clone repo and install [requirements.txt](https://github.com/WongKinYiu/yolov7/blob/main/requirements.txt)
+
+```bash
+git clone https://github.com/WongKinYiu/yolov7.git  # clone
+cd yolov7
+pip install -r requirements.txt  # install
+```
 
 </details>
 
